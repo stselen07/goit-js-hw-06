@@ -1,4 +1,4 @@
-lass StringBuilder {
+class StringBuilder {
   #value;
   constructor(initialValue) {
     this.#value = initialValue;
